@@ -1,0 +1,11 @@
+{
+  "global": {
+    "symbol": 0
+  },
+  "services": {
+    "atlassian@praqma.com,atlassian.com": {
+      "dash": 1,
+      "length": 8
+    }
+  }
+}
