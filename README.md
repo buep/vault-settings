@@ -16,7 +16,7 @@ vault --import vault-settings/praqma-vault.json
 ```
 
 
-## Or: use curl to have
+## Or: Use curl
 
 Useful if you only wanna read the settings and have zero foot print on your local disk.
 
